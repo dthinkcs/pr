@@ -1,0 +1,6 @@
+rotate by b:
+
+  for i in range(n):
+    res.append(a[(i + b) % len(a)])
+
+n^logn vs logn ^ n
